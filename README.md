@@ -32,5 +32,3 @@ Given a piece of text and a maximum token budget **B**, the goal is to:
 - **Performance Comparison Table**
   - Measures execution time for both strategies
   - Tests multiple text sizes (100–1600 sentences)
-```bash
-python token_reduction.py
